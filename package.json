@@ -1,0 +1,26 @@
+{
+  "name": "crquery",
+  "version": "1.0.0",
+  "description": "Tools for query with cross platforms.",
+  "main": "crquery.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianlucena/crquery.git"
+  },
+  "keywords": [
+    "query",
+    "sql",
+    "filter",
+    "linq"
+  ],
+  "author": "Fabian Lucena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianlucena/crquery/issues"
+  },
+  "homepage": "https://github.com/fabianlucena/crquery#readme"
+}
